@@ -1,0 +1,32 @@
+html{
+    scroll-behavior: auto;
+}
+body{
+    text-align: center;
+    background-color: black ;
+    font-family:cursive;
+    color: white;
+    overflow:hidden;
+}
+.menu{
+    list-style: none;
+    cursor: pointer;
+    position:fixed;
+     overflow:hidden;e
+}
+.link {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 16px;
+}
+img{
+    height:300px;
+    width:300px;
+    margin-right:320px;
+    margin-left: 320px
+}
